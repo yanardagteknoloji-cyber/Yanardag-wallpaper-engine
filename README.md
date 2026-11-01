@@ -1,14 +1,12 @@
 # Yanardağ wallpaper engine
 Yanardağ Wallpaper engine
-hey kullanıcı Uygulamayı indirdiğin için teşşekkür ederim 
-lütfen uygulamanın parça parça olmasına bakma 25mb sınırı olduğu için parça parça oldu uygulamamız 26 mb :(
-uygulamayı birleştirmek için hepsini seçip rar dan çıkart ve tam hali önünde!
-bu kusurumuzdan dolayı özür dileriz genede beğenirsen sosyal medyada bizi takip edebilirsin buna çok seviniriz 
+hey kullanıcı Uygulamayı indirdiğin için teşşekkür ederim
+bir mp4 seç ve kullanmaya başla! evet reklam yok ücret yok.ister 1080p video koy ister 4k istediğin gibi kullan ve merak etme arkada uygulama açılında otomatik duruyove kaynak kullanmıyor
+
 
 
 
 Yanardağ Wallpaper Engine
 Hey user, thanks for downloading the app.
-Please don't mind the fact that the app is split into parts; it had to be done this way because of the 25MB limit, and our app is 26MB :(
-To assemble the app, simply select all the files and extract them from the RAR archive—and there you have the complete version!
-We apologize for this inconvenience, but if you like it, we’d be delighted if you followed us on social media.
+Select an MP4 file and start using it! That’s right—no ads, no fees. Whether it’s a 1080p or 4K video, use it however you like. And don’t worry: the application pauses automatically whenever you open another app, so it won’t consume any system resources.
+
